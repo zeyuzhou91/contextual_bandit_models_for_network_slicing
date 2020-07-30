@@ -15,7 +15,7 @@ auxuliary.py contains some auxiliary functions.
 
 ## How to use
 
-1. Open main.py and set the parameters: 
+### Open main.py and set the parameters: 
 
 D: a positive integer, number of domains
 
@@ -25,5 +25,6 @@ t: the time horizon (number of steps in each simulation)
 
 N_simul: the number of simulations to run, over which the average regret will be obtained
 
-2. Open a terminal and run:
+### Open a terminal and run:
+
 python main.py
