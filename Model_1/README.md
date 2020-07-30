@@ -3,7 +3,7 @@
 This folder contains the simulation program of a contextual bandit model for 
 network slicing. 
 
-## Content of files
+## Description of files
 
 main.py contains the simulation setup. Model parameters can be modified in this file.
 
