@@ -18,8 +18,11 @@ auxuliary.py contains some auxiliary functions.
 1. Open main.py and set the parameters: 
 
 D: a positive integer, number of domains
+
 B: a positive integer list, the number of resource blocks in each domain
+
 t: the time horizon (number of steps in each simulation)
+
 N_simul: the number of simulations to run, over which the average regret will be obtained
 
 2. Open a terminal and run:
