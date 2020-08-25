@@ -16,7 +16,7 @@ if __name__ == "__main__":
     B = [2,3,3]  # number of resource blocks in each domain
     T = 1000      # time horizon
     
-    N_simul = 500   # number of simulations
+    N_simul = 2000   # number of simulations
     
     AVG_REG10_PTS1 = np.zeros(T)   # average regret
     AVG_REG100_PTS1 = np.zeros(T)   # average regret
